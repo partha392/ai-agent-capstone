@@ -1,9 +1,5 @@
 # 🤖 AI Agent Capstone — Gemini 2.5 Flash + Google ADK
 
-> Built by **Partha Das**, M.Sc Computer Science (NIELIT Guwahati)  
-> Submission for the **Google × Kaggle 5-Day AI Agent Challenge**
-
----
 
 ## 🌟 Overview
 
